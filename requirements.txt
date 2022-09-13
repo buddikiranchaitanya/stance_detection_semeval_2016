@@ -1,0 +1,8 @@
+torch: 1.11.0+cu113
+transformers (hugging face): 4.18.0
+numpy: 1.21.6
+pandas: 1.3.5
+matplotlib: 3.2.2
+scikit-learn: 1.0.2
+requests: 2.23.0
+tabulate: 0.8.9
